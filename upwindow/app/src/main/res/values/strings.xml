@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">upwindow</string>
+    <string name="string_button">СГЕНЕРИРОВАТЬ</string>
+    <string name="view_string">ВВЕДИТЕ ЧТО-ТО</string>
+</resources>

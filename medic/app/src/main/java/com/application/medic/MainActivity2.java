@@ -16,6 +16,6 @@ public class MainActivity2 extends AppCompatActivity {
 
     public void addAnalys(View v){
         v.setBackgroundColor(Color.WHITE);
-        
+
     }
 }
